@@ -1,0 +1,14 @@
+.clsProjectName {
+  text-align: right;
+  color: gray;
+}
+
+.clsProject {
+  position: relative;
+  color: blue;
+  display: inline-block;
+  height: 1em;
+  background-color: gray;
+  margin: 2px 0;
+  border-radius: 0.2em;
+};
